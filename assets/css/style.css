@@ -1,0 +1,30 @@
+.jumbotron {
+	background-color: #000080;
+	color: white;
+	margin: 30px;
+
+}
+
+.btn {
+	margin: 10px;
+	background-color: #000080;
+}
+
+.glyphicon-road {
+	margin-right: 20px;
+}
+
+.panel-default > .panel-heading {
+color: white;
+
+}
+
+#headerDiv {
+	background-color: #000080;
+}
+
+.form-control {
+	width: 90%;
+}
+
+
